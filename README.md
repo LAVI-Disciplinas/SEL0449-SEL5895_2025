@@ -1,11 +1,11 @@
 
- ## Introdução ao Processamento Digital de Imagens (SEL0449/SEL5895 - 2024)
+ ## Introdução ao Processamento Digital de Imagens (SEL0449/SEL5895 - 2025)
  
  Faremos uso desse repositório do Github para disponibilizarmos as listas de exercício e vamos utilizar o Google Colab para a execução das mesmas. As práticas devem ser feitas individualmente e enviadas para o professor por meio do E-disciplinas. **Não será contabilizado nota para os alunos que não enviarem os exercícios**. 
 
 ### Instruções gerais:
 
- - O link para as listas de exercício estão localizados no [final dessa página](https://github.com/LAVI-USP/SEL0449-SEL5895_2024#listas-de-exercício).
+ - O link para as listas de exercício estão localizados no [final dessa página](https://github.com/LAVI-USP/SEL0449-SEL5895_2025#listas-de-exercício).
  - O [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) é uma ferramenta que permite escrever e executar códigos Python no seu navegador sem a necessidade de instalar nada. O Colab nada mais é do que um [Jupyter notebook](https://jupyter.org) hospedado pelo Google.
  - As instruções específicas de cada exercício se encontram no jupyter notebook de cada prática.
  - [Aqui](/extra) você pode encontrar a indicação de cursos, tutoriais, etc, sobre python, jupyter notebook, bibliotecas utilizadas e etc.
@@ -38,12 +38,6 @@
 ### Listas de Exercício
 
  - [Lista de Exercício 1](praticas/Lista_de_Exercicio_1.ipynb)
- - [Lista de Exercício 2](praticas/Lista_de_Exercicio_2.ipynb)
- - [Lista de Exercício 3](praticas/Lista_de_Exercicio_3.ipynb)
- - [Lista de Exercício 4](praticas/Lista_de_Exercicio_4.ipynb)
- - [Lista de Exercício 5](praticas/Lista_de_Exercicio_5.ipynb)
- - [Lista de Exercício 6](praticas/Lista_de_Exercicio_6.ipynb)
- - [Lista de Exercício 7](praticas/Lista_de_Exercicio_7.ipynb)
 ---
 
 Laboratory of Computer Vision ([Lavi](http://iris.sel.eesc.usp.br/lavi/))  
