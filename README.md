@@ -39,6 +39,7 @@
 
  - [Lista de Exercício 1](praticas/Lista_de_Exercicio_1.ipynb)
  - [Lista de Exercício 2](praticas/Lista_de_Exercicio_2.ipynb)
+ - [Lista de Exercício 3](praticas/Lista_de_Exercicio_3.ipynb)
 ---
 
 Laboratory of Computer Vision ([Lavi](http://iris.sel.eesc.usp.br/lavi/))  
